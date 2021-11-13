@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+.main-banner{
+    background-image: url('https://i.ibb.co/CKhm0Xd/pexels-digital-buggu-204267.jpg');
+    width: 100%;
+    background-size: 100% 100%;
+}
+.banner-desc{
+    max-width: 500px;
+    background-color: rgba(243, 243, 243, 0.733);
+    font-family: 'Dongle', sans-serif;
+}
+.banner-desc h5{
+    color: #9D5C0D;
+}
+.banner-desc h3{
+    font-family: 'Playfair Display', serif;
+}

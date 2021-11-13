@@ -1,0 +1,11 @@
+h2{
+    color: white;
+    font-size: 28px;
+}
+.top-footer{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+p,li{
+    color: rgb(180, 180, 180);
+}
